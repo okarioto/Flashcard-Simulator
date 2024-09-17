@@ -1,14 +1,3 @@
-# My Personal Project
-
-## A subtitle
-
-A *bulleted* list:
-- item 1
-- item 2
-- item 3
-
-An example of text with **bold** and *italic* fonts. 
-
 # Simple Quiz Game
 ## A flashcard like game to help learn 
 For my personal project, I would like to design a game where the user is 
