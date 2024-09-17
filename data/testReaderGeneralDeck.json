@@ -1,0 +1,15 @@
+{
+  "cards": [
+    {
+      "back": "1",
+      "front": "1",
+      "points": 1
+    },
+    {
+      "back": "2",
+      "front": "2",
+      "points": 2
+    }
+  ],
+  "name": "My Deck"
+}
